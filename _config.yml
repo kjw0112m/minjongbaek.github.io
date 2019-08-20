@@ -130,7 +130,7 @@ author:
       url: "https://github.com/minjongbaek"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/minjongboy123"
 
 # Site Footer
 footer:
@@ -142,7 +142,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "https://github.com/minjongbaek"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"

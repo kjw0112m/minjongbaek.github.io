@@ -288,6 +288,7 @@ defaults:
       path: ""
       type: posts
     values:
+      nav: "main"
       layout: single
       author_profile: true
       read_time: true

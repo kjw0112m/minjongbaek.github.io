@@ -300,9 +300,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-     sidebar:
-        nav: "main"
-      layout: single
+     # layout: single
       author_profile: true
      # comments: false 
      # share: true

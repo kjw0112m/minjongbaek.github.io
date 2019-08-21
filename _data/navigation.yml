@@ -9,12 +9,12 @@ main:
 
 side:
   - title: "TEST"
-    url: /categories/#TEST
+    url: /TEST/
   - title: "Back-End"
     children:
       - title: "Spring"
         url: /categories/#spring
   - title: "Front-End"
   - title: "Error"
-    url: //categories/#error
+    url: /categories/#error
  

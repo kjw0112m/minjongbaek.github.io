@@ -1,16 +1,18 @@
 # main links
 main:
-  - title: "About" # 네비게이션 바에 표시 되는 이름
+  - title: "MINJONG" # 네비게이션 바에 표시 되는 이름
     url: /about/ # 클릭시 이동할 URL
-  - title: "Category"
-    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap
 
 side:
-  - title: SideBar
+  - title: Back-End
     children:
-      - title: "카테고리"
-        url: /categories/
+      - title: "Spring"
+        url: /categories/#spring
+      - title: "Linux"
+        url: /categories/#linux
+  - title: Front-End
+ 

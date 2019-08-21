@@ -9,7 +9,7 @@ main:
 
 side:
   - title: "TEST"
-    url: /TEST/
+    url: /categories/#TEST
   - title: "Back-End"
     children:
       - title: "Spring"

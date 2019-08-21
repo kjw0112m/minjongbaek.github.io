@@ -134,13 +134,7 @@ author:
 
 # SideBar
 sidebar:
-  - title: "1"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-
+  nav : "main"
 # Site Footer
 footer:
   links:

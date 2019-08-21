@@ -9,10 +9,10 @@ main:
 
 side:
   - title: Back-End
+    url: /categories/#TEST
+  - title: Back-End
     children:
       - title: "Spring"
         url: /categories/#spring
-      - title: "Linux"
-        url: /categories/#linux
   - title: Front-End
  

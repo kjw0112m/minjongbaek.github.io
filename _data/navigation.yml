@@ -15,4 +15,6 @@ side:
       - title: "Spring"
         url: /categories/#spring
   - title: "Front-End"
+  - title: "Error"
+    url: //categories/#error
  

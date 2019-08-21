@@ -132,6 +132,15 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/minjongboy123"
 
+# SideBar
+sidebar:
+  - title: "1"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+
 # Site Footer
 footer:
   links:

@@ -8,3 +8,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap
+
+side:
+  - title: SideBar
+    children:
+      - title: "카테고리"
+        url: /categories/

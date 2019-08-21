@@ -290,12 +290,12 @@ defaults:
     values:
       sidebar:
         nav: "main"
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      #layout: single
+      #author_profile: true
+      #read_time: true
+      comments: true
+      #share: true
+      #related: true
 
   # _pages
   - scope:
@@ -304,6 +304,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      comments: false 
-      share: true
-      related: true
+     # comments: false 
+     # share: true
+     # related: true

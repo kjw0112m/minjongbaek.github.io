@@ -2,17 +2,17 @@
 main:
   - title: "MINJONG" # 네비게이션 바에 표시 되는 이름
     url: /about/ # 클릭시 이동할 URL
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Posts"
+    url: /categories/
   # - title: "Sitemap"
   #   url: /sitemap
 
 side:
-  - title: Back-End
+  - title: "TEST"
     url: /categories/#TEST
-  - title: Back-End
+  - title: "Back-End"
     children:
       - title: "Spring"
         url: /categories/#spring
-  - title: Front-End
+  - title: "Front-End"
  

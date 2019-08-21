@@ -132,9 +132,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/minjongboy123"
 
-# SideBar
-sidebar:
-  nav : "main"
 # Site Footer
 footer:
   links:

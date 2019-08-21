@@ -288,7 +288,7 @@ defaults:
       path: ""
       type: posts
     values:
-      sidevar : 
+      sidebar : 
       nav : "side"
       #layout: single
       #author_profile: true

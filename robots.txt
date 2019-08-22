@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://minjongbaek.github.io/sitemap.xml

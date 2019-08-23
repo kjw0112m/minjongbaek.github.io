@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" #"air", "aqua", "contrast", "dark", "dirt",
 locale                   : "ko-KR"
 title                    : "민종이의 개발노트"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "초보 개발자의 개발노트"
 name                     : "MINJONG"
-description              : "웹 개발 공부 중...!"
+description              : "초보 개발자의 개발노트"
 url                      : "https://minjongbaek.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

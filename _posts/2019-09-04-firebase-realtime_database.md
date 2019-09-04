@@ -20,7 +20,7 @@ date: 2019-09-04 10:50:00
 
 
 
-![1](https://github.com/minjongbaek/minjongbaek.github.io/blob/master/assets/images/posts/2019-09-04-firebase-realtime_database/1.PNG)
+![1](/assets/images/posts/2019-09-04-firebase-realtime_database/1.PNG)
 
 
 
@@ -62,7 +62,7 @@ npm install -g firebase-tools
 
 
 
-![3](C:\Users\baek\Documents\GitHub\minjongbaek.github.io\assets\images\posts\2019-09-04-firebase-realtime_database\3.PNG)
+![3](/assets/images/posts/2019-09-04-firebase-realtime_database/3.PNG)
 
 
 
@@ -74,7 +74,7 @@ firebase init
 
 
 
-![4](C:\Users\baek\Documents\GitHub\minjongbaek.github.io\assets\images\posts\2019-09-04-firebase-realtime_database\4.PNG)
+![4](/assets/images/posts/2019-09-04-firebase-realtime_database/4.PNG)
 
 
 

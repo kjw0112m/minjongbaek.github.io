@@ -10,11 +10,10 @@ main:
 side:
   - title: "TEST"
     url: /categories/#TEST
-  - title: "Back-End"
-    children:
-      - title: "Spring"
-        url: /categories/#spring
-  - title: "Front-End"
+  - title: "Spring"
+    url: /categories/#spring
+  - title: "Firebase"
+    url: /categories/#firebase
   - title: "Error"
     url: /categories/#error
  

@@ -20,7 +20,7 @@ date: 2019-09-04 10:50:00
 
 
 
-![1](C:\Users\baek\Documents\GitHub\minjongbaek.github.io\assets\images\posts\2019-09-04-firebase-realtime_database\1.PNG)
+![1](https://github.com/minjongbaek/minjongbaek.github.io/blob/master/assets/images/posts/2019-09-04-firebase-realtime_database/1.PNG)
 
 
 
@@ -48,7 +48,7 @@ Firebase 호스팅은 웹 앱, 정적 / 동적 콘텐츠, 마이크로서비스�
 
 
 
-![2](C:\Users\baek\Documents\GitHub\minjongbaek.github.io\assets\images\posts\2019-09-04-firebase-realtime_database\2.PNG)
+![2](/assets/images/posts/2019-09-04-firebase-realtime_database/2.PNG)
 
 
 

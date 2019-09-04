@@ -48,7 +48,7 @@ Firebase 호스팅은 웹 앱, 정적 / 동적 콘텐츠, 마이크로서비스�
 
 
 
-![2](/_posts/images/2019-09-04-firebase-realtime_database/2019-09-04-firebase-realtime_database/2.PNG)
+![2](/_posts/images/2019-09-04-firebase-realtime_database/2.PNG)
 
 
 
@@ -62,7 +62,7 @@ npm install -g firebase-tools
 
 
 
-![3](/_posts/images/2019-09-04-firebase-realtime_database/2019-09-04-firebase-realtime_database/3.PNG)
+![3](/_posts/images/2019-09-04-firebase-realtime_database/3.PNG)
 
 
 
@@ -74,7 +74,7 @@ firebase init
 
 
 
-![4](/_posts/images/2019-09-04-firebase-realtime_database/2019-09-04-firebase-realtime_database/4.PNG)
+![4](/_posts/images/2019-09-04-firebase-realtime_database/4.PNG)
 
 
 

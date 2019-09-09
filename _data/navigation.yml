@@ -12,7 +12,7 @@ side:
     url: /categories/#TEST
   - title: "Spring"
     url: /categories/#spring
-      - title: "Node.js"
+  - title: "Node.js"
     url: /categories/#nodejs
   - title: "Firebase"
     url: /categories/#firebase

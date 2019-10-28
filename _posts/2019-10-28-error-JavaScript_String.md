@@ -3,6 +3,7 @@ title: "JavaScript에서 문자열 매개변수 입력 오류"
 categories: error
 date: 2019-10-28 18:21:00
 lastmod: 2019-10-28 18:21:00
+classes: wide
 ---
 
 자바스크립트 함수 중 매개변수를 문자열로 처리하고자 할 때 제대로 처리가 안 되는 경우가 있었다.

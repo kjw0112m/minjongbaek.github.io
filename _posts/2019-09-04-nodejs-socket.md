@@ -2,6 +2,7 @@
 title: "Node.js socket을 이용한 웹 채팅 기능 구현"
 categories: nodejs
 date: 2019-09-09 18:20:00
+classes: wide
 ---
 
 본 포스팅은 express를 설치하고, socket.io에 대한 라이브러리를 설치한 후의 과정입니다.

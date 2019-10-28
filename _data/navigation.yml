@@ -8,8 +8,6 @@ main:
   #   url: /sitemap
 
 side:
-  - title: "TEST"
-    url: /categories/#TEST
   - title: "Spring"
     url: /categories/#spring
   - title: "Node.js"

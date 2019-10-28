@@ -2,6 +2,7 @@
 title: "firebase 설정"
 categories: firebase
 date: 2019-09-04 10:50:00
+classes: wide
 ---
 
 팀 프로젝트를 진행하는데, 채팅 기능을 구현해야했다.

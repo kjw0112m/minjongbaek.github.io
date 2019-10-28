@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "BAEK MINJONG"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Studying web development"
+  bio              : "웹 개발 공부 중"
   location         : "Seoul"
   email            : 
   links:

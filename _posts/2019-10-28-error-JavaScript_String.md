@@ -13,7 +13,7 @@ lastmod: 2019-08-22 10:40:00
 
 버튼의 onclick의 속성으로 del() 함수를 호출하는 과정에서 생긴 오류이다.
 
-### <실행 오류 코드>
+### <수정한 코드>
 
 ```javascript
     $(document).ready(function() {

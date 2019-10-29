@@ -14,7 +14,7 @@ sidebar :
 
 <div>
     <img src="/assets/images/posts/about/bio-photo12.jpg" style="zoom:50%; display: inline-block; float: left" />
-    <div style="height: 236px; display: flex; align-items: center;">
+    <div style="height: 236px; display: flex; align-items: center; font-size:14px;">
         <div style="margin-left: 10px;">
             <p><span style="font-size: 20px; font-weight: bold">백민종</span> (남) 1995년, 25세</p><br>
             <p>2014.03 ~ 2019.02 동양미래대학교 정보통신공학과</p>
@@ -23,6 +23,8 @@ sidebar :
         </div>
     </div>
 </div>
+
+
 
 
 

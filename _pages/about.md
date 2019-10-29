@@ -32,16 +32,15 @@ classes: wide
 
 ## MP3 Player
 
-<div style="font-size:16px;">
-개발 기간 : 4개월 <br>
+###### 개발 기간 : 4개월 
 
-<div style="font-size:16px;">
-적용 기술 : JAVA <br>
-<div style="font-size:16px;">
-프로젝트 소개 : <br>
-&nbsp;&nbsp;JAVA로 개발한 MP3Player입니다. 순수 자바로 개발했기 때문에 swing을 사용해 인터페이스를 구현했습니다.<br>
-MP3 파일을 재생하기 위해서 Java Media Framework를 사용했습니다.<br>
-사용자들과 음악정보 공유를 위한 채팅 기능을 지원합니다. TCP/IP 기반의 소켓통신과 멀티 스레드를 활용하여 구현했습니다.
+
+적용 기술 : JAVA 
+
+프로젝트 소개 : 
+  JAVA로 개발한 MP3Player입니다. 순수 자바로 개발했기 때문에 swing을 사용해 인터페이스를 구현했습니다.
+MP3 파일을 재생하기 위해서 Java Media Framework를 사용했습니다.
+  사용자들과 음악정보 공유를 위한 채팅 기능을 지원합니다. TCP/IP 기반의 소켓통신과 멀티 스레드를 활용하여 구현했습니다.
 
 [사진 추가 예정]
 

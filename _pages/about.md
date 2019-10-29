@@ -3,7 +3,6 @@ title: "About MINJONG"
 permalink: /about/
 sidebar : 
     nav : "side"
-toc: true
 
 ---
 
@@ -11,10 +10,10 @@ toc: true
 
 
 
-## BAEK MIN JONG
+# BAEK MIN JONG
 
 <div>
-    <img src="bio-photo12.jpg" style="zoom:50%; display: inline-block; float: left" />
+    <img src="/assets/images/posts/about/bio-photo12.jpg" style="zoom:50%; display: inline-block; float: left" />
     <div style="height: 236px; display: flex; align-items: center;">
         <div style="margin-left: 10px;">
             <p><span style="font-size: 20px; font-weight: bold">백민종</span> (남) 1995년, 25세</p><br>
@@ -27,9 +26,9 @@ toc: true
 
 
 
-## PORTFOLIO
+# PORTFOLIO
 
-#### MP3 Player
+## MP3 Player
 
 개발 기간 : 4개월
 
@@ -46,7 +45,7 @@ MP3 파일을 재생하기 위해서 Java Media Framework를 사용했습니다.
 
 
 
-#### POS 시스템 
+## POS 시스템 
 
 팀 프로젝트
 
@@ -66,7 +65,7 @@ JAVA로 개발한 김밥집 POS 시스템입니다. 콘솔에 출력하는 형�
 
 
 
-#### 도서관 웹 사이트
+## 도서관 웹 사이트
 
 팀 프로젝트
 
@@ -90,7 +89,7 @@ JAVA로 개발한 김밥집 POS 시스템입니다. 콘솔에 출력하는 형�
 
 
 
-#### 우도 관광 웹 사이트
+## 우도 관광 웹 사이트
 
 팀 프로젝트
 

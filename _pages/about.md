@@ -59,7 +59,7 @@ classes: wide
     <div style="font-size: 18px; line-height:40px">
         개발 기간 : 1개월 <br>
         적용 기술 : <br>
-        <ol style="padding: 0; margin: 5px 0; margin-left: 40px;">
+        <ol style="padding: 0; margin: 5px 0; margin-left: 40px; line-height: 30px;">
             <li>화면구성 : HTML5, CSS3, JavaScript, bootstarp, JSP</li>
             <li>데이터 요청 및 출력 : jQuery </li>
             <li>서버 구현 : JAVA, Servlet </li>
@@ -79,7 +79,7 @@ classes: wide
     <div style="font-size: 18px; line-height:40px">
         개발 기간 : 1개월 <br>
         적용 기술 : <br>
-        <ol style="padding: 0; margin: 5px 0; margin-left: 40px;">
+        <ol style="padding: 0; margin: 5px 0; margin-left: 40px; line-height: 30px;">
             <li>화면구성 : HTML5, CSS3, JavaScript, bootstarp</li>
             <li>데이터 요청 및 출력 : jQuery, Ajax, JSON</li>
             <li>MySQL, MyBatis</li>

@@ -28,7 +28,7 @@ classes: wide
 
 <div>
     <h3>MP3 Player</h3>
-    <div style="font-size: 18px; line-height:35px">
+    <div style="font-size: 18px; line-height:40px">
         개발 기간 : 4개월 <br>
         적용 기술 : JAVA <br>
         프로젝트 소개 : <br>
@@ -42,7 +42,7 @@ classes: wide
 
 <div>
     <h3>POS 시스템</h3>
-    <div style="font-size: 18px; line-height:35px">
+    <div style="font-size: 18px; line-height:40px">
         개발 기간 : 1개월 <br>
         적용 기술 : JAVA <br>
         담당 업무 : 판매 관리 <br>
@@ -56,7 +56,7 @@ classes: wide
 
 <div>
     <h3>도서관 웹 사이트</h3>
-    <div style="font-size: 18px; line-height:35px">
+    <div style="font-size: 18px; line-height:40px">
         개발 기간 : 1개월 <br>
         적용 기술 : <br>
         <ol style="padding: 0; margin: 5px 0; margin-left: 40px;">
@@ -76,7 +76,7 @@ classes: wide
 
 <div>
     <h3>우도 관광 웹 사이트</h3>
-    <div style="font-size: 18px; line-height:35px">
+    <div style="font-size: 18px; line-height:40px">
         개발 기간 : 1개월 <br>
         적용 기술 : <br>
         <ol style="padding: 0; margin: 5px 0; margin-left: 40px;">

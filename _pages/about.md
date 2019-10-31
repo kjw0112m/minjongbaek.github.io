@@ -43,11 +43,11 @@ classes: wide
 </div>
 
 <div>
-    <img src="/assets/images/posts/about/port1/1.png" style="width:480px";/>
-    <img src="/assets/images/posts/about/port1/2.png" style="width:480px";/>
-    <img src="/assets/images/posts/about/port1/3.png" style="width:480px";/>
-    <img src="/assets/images/posts/about/port1/4.png" style="width:480px";/>
-    <img src="/assets/images/posts/about/port1/5.png" style="width:480px";/>
+    <img src="/assets/images/posts/about/port1/1.PNG" style="width:480px";/>
+    <img src="/assets/images/posts/about/port1/2.PNG" style="width:480px";/>
+    <img src="/assets/images/posts/about/port1/3.PNG" style="width:480px";/>
+    <img src="/assets/images/posts/about/port1/4.PNG" style="width:480px";/>
+    <img src="/assets/images/posts/about/port1/5.PNG" style="width:480px";/>
 </div>
 
 <br><br>

@@ -44,23 +44,23 @@ classes: wide
 
 
 
-<img src="C:\Users\baek\Documents\GitHub\minjongbaek.github.io\assets\images\posts\about\port1\1.PNG" alt="1" style="zoom: 67%;" />
+<img src="\assets\images\posts\about\port1\1.PNG" alt="1" style="zoom: 67%;" />
 
 
 
-<img src="C:\Users\baek\Documents\GitHub\minjongbaek.github.io\assets\images\posts\about\port1\2.PNG" alt="2" style="zoom:67%;" />
+<img src="\assets\images\posts\about\port1\2.PNG" alt="2" style="zoom:67%;" />
 
 
 
-<img src="C:\Users\baek\Documents\GitHub\minjongbaek.github.io\assets\images\posts\about\port1\3.PNG" alt="3" style="zoom: 50%;" />
+<img src="\assets\images\posts\about\port1\3.PNG" alt="3" style="zoom: 50%;" />
 
 
 
-<img src="C:\Users\baek\Documents\GitHub\minjongbaek.github.io\assets\images\posts\about\port1\4.PNG" alt="4" style="zoom:67%;" />
+<img src="\assets\images\posts\about\port1\4.PNG" alt="4" style="zoom:67%;" />
 
 
 
-<img src="C:\Users\baek\Documents\GitHub\minjongbaek.github.io\assets\images\posts\about\port1\5.PNG" alt="5" style="zoom:67%;" />
+<img src="\assets\images\posts\about\port1\5.PNG" alt="5" style="zoom:67%;" />
 
 
 

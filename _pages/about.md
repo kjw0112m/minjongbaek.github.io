@@ -42,9 +42,11 @@ classes: wide
 
 <img src="/assets/images/portfolio/1/슬라이드6.PNG" alt="슬라이드6" style="zoom:67%;" />
 
+[채팅 서버 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI-node/toti-chat-server.js ) / [채팅 페이지 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI/src/main/webapp/WEB-INF/views/baek/chat/chatPage.jsp )
+
 <img src="/assets/images/portfolio/1/슬라이드7.PNG" alt="슬라이드7" style="zoom:67%;" />
 
-
+[RTC 서버 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI-node/toti-rtc-server.js ) / [RTC 페이지 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI/src/main/webapp/WEB-INF/views/baek/chat/rtcPage.jsp )
 
 
 

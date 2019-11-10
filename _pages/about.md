@@ -27,45 +27,45 @@ classes: wide
 
 # PORTFOLIO
 
-<img src="/assets/images/portfolio/1/1.PNG" alt="슬라이드1" style="zoom:50%;" />
+<img src="/assets/images/portfolio/1/1.PNG" alt="슬라이드1" style="zoom:70%;" />
 
-<img src="/assets/images/portfolio/1/2.PNG" alt="슬라이드2" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/1/2.PNG" alt="슬라이드2" style="zoom:70%;"/>
 
-<img src="/assets/images/portfolio/1/3.PNG" alt="슬라이드3" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/1/3.PNG" alt="슬라이드3" style="zoom:70%;"/>
 
 [프로젝트 깃허브 링크](https://github.com/minjongbaek/TOTI)
 
 [웹 사이트 링크](https://yal-toti.tk/toti)
 
-<img src="/assets/images/portfolio/1/4.PNG" alt="슬라이드4" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/1/4.PNG" alt="슬라이드4" style="zoom:70%;"/>
 
-<img src="/assets/images/portfolio/1/5.PNG" alt="슬라이드5" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/1/5.PNG" alt="슬라이드5" style="zoom:70%;"/>
 
-<img src="/assets/images/portfolio/1/6.PNG" alt="슬라이드6" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/1/6.PNG" alt="슬라이드6" style="zoom:70%;"/>
 
 [채팅 서버 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI-node/toti-chat-server.js ) / [채팅 페이지 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI/src/main/webapp/WEB-INF/views/baek/chat/chatPage.jsp )
 
-<img src="/assets/images/portfolio/1/7.PNG" alt="슬라이드7" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/1/7.PNG" alt="슬라이드7" style="zoom:70%;"/>
 
 [RTC 서버 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI-node/toti-rtc-server.js ) / [RTC 페이지 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI/src/main/webapp/WEB-INF/views/baek/chat/rtcPage.jsp )
 
-<img src="/assets/images/portfolio/2/1.PNG" alt="슬라이드1" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/2/1.PNG" alt="슬라이드1" style="zoom:70%;"/>
 
-<img src="/assets/images/portfolio/2/2.PNG" alt="슬라이드2" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/2/2.PNG" alt="슬라이드2" style="zoom:70%;"/>
 
 [프로젝트 깃허브 링크]( https://github.com/minjongbaek/project_udo )
 
 [웹 사이트 링크]( http://ec2-13-209-40-173.ap-northeast-2.compute.amazonaws.com:8080/Udo_Client/main.html )
 
-<img src="/assets/images/portfolio/2/3.PNG" alt="슬라이드3" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/2/3.PNG" alt="슬라이드3" style="zoom:70%;"/>
 
-<img src="/assets/images/portfolio/2/4.PNG" alt="슬라이드4" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/2/4.PNG" alt="슬라이드4" style="zoom:70%;"/>
 
-<img src="/assets/images/portfolio/2/5.PNG" alt="슬라이드5" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/2/5.PNG" alt="슬라이드5" style="zoom:70%;"/>
 
 [회원가입 Service 코드]( https://github.com/minjongbaek/project_udo/blob/master/Udo/src/main/java/com/wad/udo/member/service/SignUpService.java ) 
 
-<img src="/assets/images/portfolio/2/6.PNG" alt="슬라이드6" style="zoom:50%;"/>
+<img src="/assets/images/portfolio/2/6.PNG" alt="슬라이드6" style="zoom:70%;"/>
 
 [로그인 Service 코드]( https://github.com/minjongbaek/project_udo/blob/master/Udo/src/main/java/com/wad/udo/member/service/LoginService.java ) / [메일 Service 코드]( https://github.com/minjongbaek/project_udo/blob/master/Udo/src/main/java/com/wad/udo/member/service/MailService.java ) / [인증 Service 코드](https://github.com/minjongbaek/project_udo/blob/master/Udo/src/main/java/com/wad/udo/member/service/VerifyService.java )
 

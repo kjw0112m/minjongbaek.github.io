@@ -49,11 +49,11 @@ classes: wide
 
 [RTC 서버 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI-node/toti-rtc-server.js ) / [RTC 페이지 코드]( https://github.com/minjongbaek/TOTI/blob/minjong/TOTI/src/main/webapp/WEB-INF/views/baek/chat/rtcPage.jsp )
 
-
+<br>
 
 ---
 
-
+<br>
 
 <img src="/assets/images/portfolio/2/1.PNG" alt="슬라이드1" style="zoom:70%;"/>
 
@@ -75,11 +75,11 @@ classes: wide
 
 [로그인 Service 코드]( https://github.com/minjongbaek/project_udo/blob/master/Udo/src/main/java/com/wad/udo/member/service/LoginService.java ) / [메일 Service 코드]( https://github.com/minjongbaek/project_udo/blob/master/Udo/src/main/java/com/wad/udo/member/service/MailService.java ) / [인증 Service 코드](https://github.com/minjongbaek/project_udo/blob/master/Udo/src/main/java/com/wad/udo/member/service/VerifyService.java )
 
-
+<br>
 
 ---
 
-
+<br>
 
 <div>
     <h3>도서관 웹 사이트</h3>
@@ -99,11 +99,11 @@ classes: wide
     </div>
 </div>
 
-
+<br>
 
 ---
 
-
+<br>
 
 <div>
     <h3>POS 시스템</h3>

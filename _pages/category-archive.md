@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 layout: categories
-permalink: /categories/
+permalink: /posts/
 sidebar : 
     nav : "side"
 ---

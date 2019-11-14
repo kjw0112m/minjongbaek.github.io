@@ -1,6 +1,6 @@
 ---
-title: "About MINJONG (수정중)"
-permalink: /about/
+title: "Portfolio"
+permalink: /portFolio/
 sidebar : 
     nav : "side"
 classes: wide
@@ -90,14 +90,14 @@ classes: wide
             <li>화면구성 : HTML5, CSS3, JavaScript, bootstarp, JSP</li>
             <li>데이터 요청 및 출력 : jQuery </li>
             <li>서버 구현 : JAVA, Servlet </li>
-            <li>데이터베이스 : Oracle, DBMS</li>
+            <li>데이터베이스 : Oracle </li>
         </ol>
-        담당 업무 : 게시판 관리 <br>
-        프로젝트 소개 : <br>
-        &nbsp;관리자, 사용자, 게스트로 나눠 사용할 수 있는 도서관 웹 사이트입니다.<br>
-        게시판 관리 기능을 맡았으며, 로그인한 사용자의 정보에 따라서 게시글에 대한 권한을 다르게 했습니다.
+        프로젝트 소개 : 도서 관리 (대여, 반납, 검색), 열람실 예약 등의 서비스를 제공하는 웹 사이트<br>
+        담당 업무 : 게시판 관리
     </div>
 </div>
+
+ [프로젝트 Repository]( https://github.com/minjongbaek/Project_Library  )
 
 <br>
 
@@ -112,8 +112,8 @@ classes: wide
         적용 기술 : JAVA <br>
         담당 업무 : 판매 관리 <br>
         프로젝트 소개 : <br>
-        &nbsp;JAVA로 개발한 김밥집 POS 시스템입니다. 콘솔에 출력하는 형태로 인터페이스를 구현했습니다.<br>
-        매장 내 테이블 (손님) 의 주문과 계산 기능을 맡았습니다.
+        &nbsp;자바 콘솔을 이용한 POS 시스템 프로그램 <br>
+        담당 기능 : 매장 관리 (손님의 주문과 계산 기능)
     </div>
 </div>
 

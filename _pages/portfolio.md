@@ -1,5 +1,4 @@
 ---
-title: "Portfolio"
 permalink: /portfolio/
 sidebar : 
     nav : "side"

@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-permalink: /portFolio/
+permalink: /portfolio/
 sidebar : 
     nav : "side"
 classes: wide
@@ -8,7 +8,7 @@ classes: wide
 
 <br>
 
-# BAEK MIN JONG
+# PROFILE
 
 <div>
     <img src="/assets/images/posts/about/bio-photo12.jpg" style="zoom:50%; display: inline-block; float: left" />

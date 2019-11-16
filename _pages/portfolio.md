@@ -116,15 +116,11 @@ classes: wide
     </div>
 </div>
 
-
-
-
+<br>
 
 ---
 
-
-
-
+<br>
 
 <div>
     <h3>MP3 Player</h3>

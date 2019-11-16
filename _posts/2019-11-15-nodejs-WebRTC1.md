@@ -19,7 +19,7 @@ WebRTC를 이용해 화상채팅 기능을 구현하면서 배우고 이해했�
 >
 > WebRTC로 할 수 있는 일은 많지만, 간단한 p2p 영상 / 음성 연결, p2p 데이터 교환 등에도 많이 쓰입니다.
 >
-> [WebRTC 공식 홈페이지]: https://webrtc.org/
+> [WebRTC 공식 홈페이지](https://webrtc.org/)
 
 
 
@@ -43,7 +43,7 @@ STUN과 TURN 서버를 설명하기 위해서는 NAT이 무엇인지 조금(?) �
 
 NAT은 네트워크를 외부망과 분리하고 공인망과 내부망의 IP주소와 포트 번호를 매핑해주는 역할을 한다.
 
-![슬라이드21](C:\Users\baek\Desktop\TOTI\슬라이드21.PNG)
+<img src="/assets/images/posts/2019-11-15-nodejs-WebRTC1/nat.PNG" alt="nat" style="zoom: 80%;" />
 
 위 그림을 보면, 192.168.100.3:3885에 대해서 NAT는 외부에 145.12.131.7:6282로 매핑해서 전달을 한다. 외부에서 보면 단순히 145.12.131.7:6282로 접속하면 되는 것 처럼 보이지만 NAT의 종류에 따라서 달라진다.
 
@@ -60,7 +60,7 @@ STUN 서버는 다음 2가지의 임무를 수행한다.
 
 STUN은 p2p 연결을 위한 정보를 제공해주기만 할 뿐, p2p 연결이 불가능할 경우에 연결을 위해 STUN 서버가 해줄 수 있는 것은 없다.
 
-<img src="C:\Users\baek\Desktop\TOTI\슬라이드22.PNG" alt="슬라이드22" style="zoom: 80%;" />
+<img src="/assets/images/posts/2019-11-15-nodejs-WebRTC1/stun.PNG" alt="stun" style="zoom: 80%;" />
 
 즉, STUN 서버는 접속 가능한 IP 주소와 포트번호를 찾는 역할을 한다.
 
@@ -70,7 +70,7 @@ STUN은 p2p 연결을 위한 정보를 제공해주기만 할 뿐, p2p 연결이
 
 TURN은 peer간 직접 통신이 실패할 경우 종단점들 사이에서 데이터 릴레이를 수행한다. 
 
-<img src="C:\Users\baek\Desktop\TOTI\슬라이드23.PNG" alt="슬라이드23" style="zoom: 80%;" />
+<img src="/assets/images/posts/2019-11-15-nodejs-WebRTC1/turn.PNG" alt="turn" style="zoom: 80%;" />
 
 ### ICE
 
@@ -82,14 +82,16 @@ ICE는 클라이언트의 모든 통신 가능한 주소를 식별한다. 그리
 
 아래의 두 그림 처럼 각 접속 경로들로 상호 패킷들이 오가면서 전송속도, 안정성 등을 판단해 미디어 연결을 한다.
 
-<img src="C:\Users\baek\Desktop\TOTI\슬라이드24.PNG" alt="슬라이드24" style="zoom: 80%;" />
+<img src="/assets/images/posts/2019-11-15-nodejs-WebRTC1/ice1.PNG" alt="ice1" style="zoom: 80%;" />
 
-<img src="C:\Users\baek\Desktop\TOTI\슬라이드25.PNG" alt="슬라이드25" style="zoom:80%;" />
+<img src="/assets/images/posts/2019-11-15-nodejs-WebRTC1/ice2.PNG" alt="ice2" style="zoom: 80%;" />
 
 
 
 ## 참고 자료
 
-> [Getting Started with WebRTC]: https://www.html5rocks.com/ko/tutorials/webrtc/basics/
-> [WebRTC Basic]: https://cryingnavi.github.io/WebRTC-Basic/
-> [STUN과 TURN에 대하여]: https://alnova2.tistory.com/1110
+> Getting Started with WebRTC : https://www.html5rocks.com/ko/tutorials/webrtc/basics/ 
+>
+> WebRTC Basic : https://cryingnavi.github.io/WebRTC-Basic/
+>
+> STUN과 TURN에 대하여 : https://alnova2.tistory.com/1110
